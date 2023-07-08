@@ -1,0 +1,48 @@
+.navbar-menu {
+  display: none;
+}
+
+@media screen and (max-width: 992px) {
+  .contact {
+    display: none;
+  }
+}
+
+/* @media screen and (max-width:800px){
+    
+} */
+
+@media screen and (max-width: 600px) {
+  header {
+    padding-top: 20px;
+  }
+
+  .header-container {
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 14px;
+  }
+
+  .logo-container {
+    padding: 20px 0;
+  }
+  .navbar {
+    padding-bottom: 15px;
+  }
+
+  .navbar ul li {
+    width: 80px;
+  }
+
+  .navbar ul li:last-child {
+    width: 100px;
+  }
+
+  .iframe-video {
+    width: 425px;
+    margin-bottom: 20px;
+  }
+
+  
+}
