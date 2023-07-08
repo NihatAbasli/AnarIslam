@@ -38,7 +38,11 @@
     width: 80px;
   }
 
-  .navbar ul li:last-child {
+  .footer-ul li:first-child {
+   display: flex;
+  }
+
+  .navbar ul li:first-child {
     width: 100px;
   }
 
