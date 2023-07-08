@@ -27,19 +27,14 @@
   .logo-container {
     padding: 20px 0;
   }
-  .navbar {
-    padding-bottom: 15px;
-  }
+
   .navbar ul {
-    padding-left: 60px;
+    padding-left: 10px;
     gap: 20px;
   }
-  .navbar ul li {
-    width: 80px;
-  }
 
-  .footer-ul li:first-child {
-   display: flex;
+  .navbar ul li a {
+    font-size: 14px;
   }
 
   .navbar ul li:first-child {
