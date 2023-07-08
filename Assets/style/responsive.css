@@ -30,7 +30,10 @@
   .navbar {
     padding-bottom: 15px;
   }
-
+  .navbar ul {
+    padding-left: 60px;
+    gap: 20px;
+  }
   .navbar ul li {
     width: 80px;
   }
@@ -43,6 +46,4 @@
     width: 425px;
     margin-bottom: 20px;
   }
-
-  
 }
