@@ -6,8 +6,6 @@ body {
   scroll-behavior: smooth;
 }
 
-
-
 header {
   display: flex;
   justify-content: center;
@@ -108,4 +106,17 @@ footer {
   /* height: 80vh; */
   z-index: 10;
   border-radius: 30px;
+}
+
+.tt:hover,
+.t1:hover,
+.t6:hover,
+.t5:hover,
+.t3:hover,
+.n:hover,
+.t4:hover,
+.t8:hover,
+.t10:hover {
+  transform: scale(1.1, 1.1);
+  transition: all 0.75s;
 }
